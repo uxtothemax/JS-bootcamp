@@ -1,0 +1,19 @@
+js bootcamp: backend les 1 - di 21-4-2020 
+
+typeof
+- met typeof kun je erachter komen wat voor soort invullen een variabele heeft:
+ 
+const laurensName = "Laurens"
+
+typeof laurensName
+"string"
+
+
+
+const
+- bij een const mag je de inhoud van de const niet veranderen, maar wel de eigenschappen van het object als je hier een object in hebt gezet
+
+
+
+bootcamp
+- hw op de dag hoeft niet voor de les op dezelfde dag af te zijn
